@@ -1,0 +1,26 @@
+body{
+    margin-top: 66px;
+    font-family: 'Montserrat', sans-serif;
+   
+}
+.display-inline{
+    display: inline;
+}
+.shadows{
+    box-shadow: rgb(141, 140, 140) 2px 2px 24px;
+}
+.circle{
+    width: 80px;
+    height:80px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    transition: all ;
+}
+.mili{
+    align-items: center;
+    font-size: 3rem;
+}
+.bg-purple{
+    background-color: #5352ed;
+}
